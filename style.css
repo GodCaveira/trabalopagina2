@@ -1,0 +1,76 @@
+
+header{
+	background-image: url(fundomine2.jpg);
+}
+
+.imginicio{
+	width: 20%;
+}
+
+
+legend{
+	font-size: 150%;
+}
+
+label{
+	font-size: 120%;
+}
+.cabecalho{
+	position: relative;
+}
+
+h1{
+	text-shadow: 9px 7px 6px rgba(0,0,0,0.88);
+	font-style: italic;
+	font-size: 320%;
+	position: absolute;
+	top: 40%;
+	right: 40%;
+}
+
+.input-padrao{
+	display: block;
+	margin: 0 0 20px;
+	padding: 10px 25px;
+	width: 50%;
+
+}
+
+
+footer{
+	background-image: url(fundofinal.png);
+}
+
+.topo{
+	display: inline-block;
+	transition: 1s all;
+}
+
+
+.topo:hover{
+	transform: scale(1.3);
+
+}
+
+.topo0{
+	display: inline-block;
+	transition: 1s all;
+}
+
+
+.topo0:hover{
+	transform: scale(1.3);
+
+}
+
+
+.topo1{
+	display: inline-block;
+	transition: 1s all;
+}
+
+
+.topo1:hover{
+	transform: scale(1.3);
+
+}
